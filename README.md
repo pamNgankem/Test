@@ -1,2 +1,2 @@
-# Testrepo
+# TestRepo
 Learning to use GitHub
